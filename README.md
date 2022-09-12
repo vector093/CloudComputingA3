@@ -4,11 +4,6 @@ Assignment 3 for ECE 1779
 
 Projet uses: Lambda, DynamoDb, EC2, RDS, S3, EventBridge
 
-### Group Contributions
-![group_contributions](https://github.com/Josh-Abraham/CloudComputingA3/blob/main/contrib.JPG?raw=true)
-
-ML Model designed by Vishal
-
 ### System Description 
 The purpose of this application is to allow users to submit images, and have them classified as either a cat or a dog. They can then show all images by classification, search for a specific image by the submitted key, or list all stored images details.
 
